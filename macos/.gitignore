@@ -1,7 +1,63 @@
-# Flutter-related
-**/Flutter/ephemeral/
-**/Pods/
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+pubspec.lock
 
-# Xcode-related
-**/dgph
+# Flutter-generated iOS
+**/Flutter/ephemeral/
+**/Flutter/Flutter.framework
+**/Flutter/Flutter.podspec
+**/Flutter/Generated.xcconfig
+**/Flutter/App.framework
+**/Flutter/Flutter.podspec
+
+# iOS CocoaPods & Xcode
+**/Pods/
+ios/Podfile.lock
 **/xcuserdata/
+**/dgph
+.DS_Store
+ios/.symlinks
+ios/Runner.xcworkspace/xcuserdata
+
+# Android
+android/.gradle/
+android/app/build/
+android/app/*.apk
+android/app/*.aab
+android/app/intermediates/
+android/app/outputs/
+android/local.properties
+android/key.properties
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+*.ap_
+*.dex
+*.so
+
+# IDEs
+.idea/
+.vscode/settings.json
+*.iml
+*.ipr
+*.iws
+
+# OS generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Logs
+*.log
+logs/
