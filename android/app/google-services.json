@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004204446070",
+    "project_id": "bafna-vault",
+    "storage_bucket": "bafna-vault.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004204446070:android:96e7b845b7f7840a6a6a57",
+        "android_client_info": {
+          "package_name": "com.example.bafna_vault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5aTleFOVOboIH5VfsksdAX4rzJatVCaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
