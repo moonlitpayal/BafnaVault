@@ -55,7 +55,8 @@ I architected a **centralized cloud "Vault"**.
 | **Admin Control Panel** | **Document Grid View** |
 |:---:|:---:|
 | <img width="1919" height="1079" alt="Screenshot 2025-12-16 233704" src="https://github.com/user-attachments/assets/5967869a-9c6d-4567-82ea-bcfceef0b660" />
- <br> *Create projects, manage archives, and users.* | ![Grid View Desktop](screenshots/desktop_grid.png) <br> *Wide view for managing large sets of blueprints.* |
+ <br> *Create projects, manage archives, and users.* | <img width="1919" height="1079" alt="Screenshot 2025-12-16 235508" src="https://github.com/user-attachments/assets/8a000ad1-0b67-4254-a7b5-9c805ef983d5" />
+ <br> *Wide view for managing large sets of blueprints.* |
 
 > **Note:** *Screenshots demonstrate the responsive UI architecture sharing 95% of the codebase.*
 
