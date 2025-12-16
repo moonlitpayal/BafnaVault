@@ -54,7 +54,7 @@ I architected a **centralized cloud "Vault"**.
 
 | **Admin Control Panel** | **Document Grid View** |
 |:---:|:---:|
-| ![Admin Panel Desktop](screenshots/desktop_admin.png) <br> *Create projects, manage archives, and users.* | ![Grid View Desktop](screenshots/desktop_grid.png) <br> *Wide view for managing large sets of blueprints.* |
+| !https://image2url.com/images/1765908508601-dda84238-7a23-4913-bbd9-3b63caf1278f.png <br> *Create projects, manage archives, and users.* | ![Grid View Desktop](screenshots/desktop_grid.png) <br> *Wide view for managing large sets of blueprints.* |
 
 > **Note:** *Screenshots demonstrate the responsive UI architecture sharing 95% of the codebase.*
 
