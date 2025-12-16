@@ -18,8 +18,7 @@
 
 | **1. Secure Login** | **2. Home Dashboard** | **3. Passkey Check** |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/c994f735-b181-4f20-9256-b7e50a0ad065" width="250" alt="Mobile Login"> |  | <img src="https://github.com/user-attachments/assets/![WhatsApp Image 2025-12-17 at 01 22 06_4c0fe986](https://github.com/user-attachments/assets/5b9a1d2e-8508-464d-9216-28fb6f527325)
-" width="250" alt="Mobile Passkey"> |
+| <img src="https://github.com/user-attachments/assets/c994f735-b181-4f20-9256-b7e50a0ad065" width="250" alt="Mobile Login"> | <img src="https://github.com/user-attachments/assets/89eea79d-8d32-4b10-b959-388733eadf4f" width="250" alt="Mobile Home"> | <img src="https://github.com/user-attachments/assets/5b9a1d2e-8508-464d-9216-28fb6f527325" width="250" alt="Mobile Passkey"> |
 | *Branded Firebase Auth* | *Active Project Grid* | *2nd Layer Security* |
 
 | **4. The Archives** | **5. Document Preview** |
@@ -38,7 +37,7 @@
 *Optimized for Office Administration on large screens.*
 
 #### 🖥️ The Admin Control Panel
-*Centralized hub to create projects, manage archives.*
+*Centralized hub to create projects, manage archives, and control user access.*
 <img width="100%" alt="Admin Panel Desktop" src="https://github.com/user-attachments/assets/5967869a-9c6d-4567-82ea-bcfceef0b660">
 
 <br>
