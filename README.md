@@ -46,7 +46,7 @@ I architected a **centralized cloud "Vault"**.
 ## 📸 Application Showcase
 
 ### 📱 Mobile View (Android)
-*Optimized specifically for on-site engineers needing quick access.*
+*Optimized for Site Engineers on the go.*
 
 | **1. Secure Login** | **2. Home Dashboard** | **3. Passkey Check** |
 |:---:|:---:|:---:|
@@ -63,13 +63,15 @@ I architected a **centralized cloud "Vault"**.
 ### 💻 Desktop / Web View
 *Optimized for Office Administration on large screens.*
 
-#### 🖥️ The Main Dashboard & Project Grid
-*A wide-angle view for managing multiple active projects simultaneously.*
-![Desktop Dashboard View](PASTE_YOUR_DESKTOP_DASHBOARD_URL_HERE)
+#### 🖥️ The Admin Control Panel
+*Centralized hub to create projects, manage archives, and control user access.*
+<img width="100%" alt="Admin Panel Desktop" src="https://github.com/user-attachments/assets/5967869a-9c6d-4567-82ea-bcfceef0b660">
 
-#### 📑 Document Preview & Archives
-*Split-screen functionality showing the integrated PDF viewer and access to archived folders.*
-![Desktop Preview and Archive View](PASTE_YOUR_DESKTOP_PREVIEW_URL_HERE)
+<br>
+
+#### 📑 The Document Grid Dashboard
+*Wide-angle view for managing large sets of blueprints and project folders efficiently.*
+<img width="100%" alt="Document Grid View" src="https://github.com/user-attachments/assets/8a000ad1-0b67-4254-a7b5-9c805ef983d5">
 
 > **Note:** *Screenshots demonstrate the responsive UI architecture sharing 95% of the codebase between platforms.*
 
