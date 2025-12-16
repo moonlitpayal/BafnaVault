@@ -53,10 +53,15 @@ I architected a **centralized cloud "Vault"**.
 | ![Mobile Login](screenshots/mobile_login.png) | ![Mobile Home](screenshots/mobile_home.png) | ![Mobile Passkey](screenshots/mobile_passkey.png) |
 | *Branded Firebase Auth* | *Active Project Grid* | *2nd Layer Security* |
 
-| **4. The Archives** | **5. Settings & Profile** | **6. Document Preview** |
-|:---:|:---:|:---:|
-| ![Mobile Archive](screenshots/mobile_archive.png) | ![Mobile Settings](screenshots/mobile_settings.png) | ![Mobile Preview](screenshots/mobile_preview.png) |
-| *Separate historical view* | *User controls & config* | *Built-in PDF Viewer* |
+| **4. The Archives** | **5. Document Preview** |
+|:---:|:---:|
+| ![Mobile Archive](screenshots/mobile_archive.png) | ![Mobile Preview](screenshots/mobile_preview.png) |
+| *Separate historical view* | *Built-in PDF Viewer* |
+
+| **6. User Profile** | **7. App Settings** |
+|:---:|:---:|
+| ![Mobile Profile](screenshots/mobile_profile.png) | ![Mobile Settings](screenshots/mobile_settings.png) |
+| *User Details & Role* | *Configuration & Themes* |
 
 <br>
 
@@ -64,7 +69,7 @@ I architected a **centralized cloud "Vault"**.
 *Optimized for Office Administration on large screens.*
 
 #### 🖥️ The Admin Control Panel
-*Centralized hub to create projects, manage archives.*
+*Centralized hub to create projects, manage archives, and control user access.*
 <img width="100%" alt="Admin Panel Desktop" src="https://github.com/user-attachments/assets/5967869a-9c6d-4567-82ea-bcfceef0b660">
 
 <br>
