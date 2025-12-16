@@ -29,7 +29,7 @@
 | **6. User Profile** | **7. App Settings** |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/c29c6241-56fb-4260-80b3-8c57c5e10d0f" width="250" alt="Mobile Profile"> | <img src="https://github.com/user-attachments/assets/0e697af3-6a8f-4a13-adb0-593a4b14dbce" width="250" alt="Mobile Settings"> |
-| *User Details & Role* | *Configuration & Themes* |
+| *User Details & Role* | *Basic Settings* |
 
 <br>
 
@@ -37,7 +37,7 @@
 *Optimized for Office Administration on large screens.*
 
 #### 🖥️ The Admin Control Panel
-*Centralized hub to create projects, manage archives, and control user access.*
+*Centralized hub to create projects, manage archives.*
 <img width="100%" alt="Admin Panel Desktop" src="https://github.com/user-attachments/assets/5967869a-9c6d-4567-82ea-bcfceef0b660">
 
 <br>
