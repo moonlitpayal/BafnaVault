@@ -1,6 +1,6 @@
 # 🛡️ BafnaVault
 
-> **Independently architected and built during my internship at the DBafna Developers.**
+> **Independently architected and built during my internship at the D. Bafna Group.**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -16,10 +16,10 @@
 ### 📱 Mobile View (Android)
 *Optimized for Site Engineers on the go.*
 
-| **1. Secure Login** | **2. Home & Menu** | **3. Passkey Check** |
+| **1. Secure Login** | **2. Home Dashboard** | **3. Passkey Check** |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/c994f735-b181-4f20-9256-b7e50a0ad065" width="250" alt="Mobile Login"> | <img src="PASTE_YOUR_NEW_HAMBURGER_MENU_IMAGE_URL_HERE" width="250" alt="Mobile Home Menu"> | <img src="https://github.com/user-attachments/assets/5b9a1d2e-8508-464d-9216-28fb6f527325" width="250" alt="Mobile Passkey"> |
-| *Branded Firebase Auth* | *Navigation & Profile* | *2nd Layer Security* |
+| <img src="https://github.com/user-attachments/assets/c994f735-b181-4f20-9256-b7e50a0ad065" width="250" alt="Mobile Login"> | <img src="https://github.com/user-attachments/assets/89eea79d-8d32-4b10-b959-388733eadf4f" width="250" alt="Mobile Home"> | <img src="https://github.com/user-attachments/assets/7851a7af-1609-4519-b013-11fa3fb330fa" width="250" alt="Mobile Passkey"> |
+| *Branded Firebase Auth* | *Active Project Grid* | *2nd Layer Security* |
 
 | **4. The Archives** | **5. Document Preview** |
 |:---:|:---:|
