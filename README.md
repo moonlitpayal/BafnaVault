@@ -28,44 +28,57 @@ I architected a **centralized cloud "Vault"**.
 
 ### 🔐 1. Advanced Security Architecture
 * **Role-Based Access Control (RBAC):** Admin vs. Viewer roles via Firebase Auth.
-* **The "Double-Lock" System:** Even after logging in, opening a confidential file requires a specific **6-digit dynamic passkey**, ensuring that an unlocked phone doesn't mean leaked data.
+* **The "Double-Lock" System:** Even after logging in, opening a confidential file requires a specific **6-digit dynamic passkey**.
 
-### 📂 2. Smart Project Organization
-* **Project-Centric View:** Files are isolated by project (e.g., "Orchid Residency", "D. Bafna One").
-* **Archive System:** Completed projects can be archived by Admins to keep the active dashboard clutter-free.
+### 📂 2. Smart Organization & Archiving
+* **Project-Centric View:** Files are isolated by project folders (e.g., "Orchid Residency").
+* **The Archive Vault:** Completed projects move to a separate 'Archive' section, keeping the main dashboard clean while preserving historical data.
 
-### ⚡ 3. High-Performance Workflow
-* **Cross-Platform Sync:** Upload a blueprint from the Desktop App, and it appears instantly on the Mobile App at the construction site.
-* **Instant Filtering:** Client-side search logic allows users to filter through thousands of documents instantly without API latency.
+### 👁️‍🗨️ 3. Integrated Document Preview
+* **Built-in Viewer:** Preview PDFs and images directly within the app without downloading external files, enhancing speed and security.
+
+### ⚡ 4. High-Performance Workflow
+* **Cross-Platform Sync:** Instant synchronization between Desktop uploads and Mobile views.
+* **Instant Filtering:** Client-side search logic allows users to filter through thousands of documents instantly.
 
 ---
 
 ## 📸 Application Showcase
 
 ### 📱 Mobile View (Android)
-*Designed for Site Engineers on the go.*
+*Optimized specifically for on-site engineers needing quick access.*
 
-| **Secure Login Screen** | **Home Dashboard** | **Passkey Security Check** |
+| **1. Secure Login** | **2. Home Dashboard** | **3. Passkey Check** |
 |:---:|:---:|:---:|
-| ![Login Screen Mobile](screenshots/mobile_login.png) <br> *Clean, branded login with Firebase Auth.* | ![Home Dashboard Mobile](screenshots/mobile_home.png) <br> *List of active projects.* | ![Passkey Mobile](screenshots/mobile_passkey.png) <br> *6-Digit Pin required for sensitive files.* |
+| ![Mobile Login](screenshots/mobile_login.png) | ![Mobile Home](screenshots/mobile_home.png) | ![Mobile Passkey](screenshots/mobile_passkey.png) |
+| *Branded Firebase Auth* | *Active Project Grid* | *2nd Layer Security* |
+
+| **4. The Archives** | **5. Settings & Profile** | **6. Document Preview** |
+|:---:|:---:|:---:|
+| ![Mobile Archive](screenshots/mobile_archive.png) | ![Mobile Settings](screenshots/mobile_settings.png) | ![Mobile Preview](screenshots/mobile_preview.png) |
+| *Separate historical view* | *User controls & config* | *Built-in PDF Viewer* |
+
+<br>
 
 ### 💻 Desktop / Web View
-*Designed for Office Administration.*
+*Optimized for Office Administration on large screens.*
 
-| **Admin Control Panel** | **Document Grid View** |
-|:---:|:---:|
-| <img width="1919" height="1079" alt="Screenshot 2025-12-16 233704" src="https://github.com/user-attachments/assets/5967869a-9c6d-4567-82ea-bcfceef0b660" />
- <br> *Create projects, manage archives, and users.* | <img width="1919" height="1079" alt="Screenshot 2025-12-16 235508" src="https://github.com/user-attachments/assets/8a000ad1-0b67-4254-a7b5-9c805ef983d5" />
- <br> *Wide view for managing large sets of blueprints.* |
+#### 🖥️ The Main Dashboard & Project Grid
+*A wide-angle view for managing multiple active projects simultaneously.*
+![Desktop Dashboard View](PASTE_YOUR_DESKTOP_DASHBOARD_URL_HERE)
 
-> **Note:** *Screenshots demonstrate the responsive UI architecture sharing 95% of the codebase.*
+#### 📑 Document Preview & Archives
+*Split-screen functionality showing the integrated PDF viewer and access to archived folders.*
+![Desktop Preview and Archive View](PASTE_YOUR_DESKTOP_PREVIEW_URL_HERE)
+
+> **Note:** *Screenshots demonstrate the responsive UI architecture sharing 95% of the codebase between platforms.*
 
 ---
 
 ## 🛠️ Tech Stack & Architecture
 
 * **Frontend Framework:** Flutter (Dart)
-    * *Reason:* Single codebase for Mobile, Web, and Windows.
+    * *Reason:* Single codebase for Mobile, Web, and Windows target platforms.
 * **Backend:** Firebase
     * **Auth:** Secure identity management.
     * **Firestore:** NoSQL database for real-time metadata syncing.
