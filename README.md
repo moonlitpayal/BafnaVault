@@ -18,24 +18,17 @@
 
 | **1. Secure Login** | **2. Home Dashboard** | **3. Passkey Check** |
 |:---:|:---:|:---:|
-| ![WhatsApp Image 2025-12-17 at 00 29 29_1deb2a94](https://github.com/user-attachments/assets/c994f735-b181-4f20-9256-b7e50a0ad065)
- | ![WhatsApp Image 2025-12-17 at 00 29 30_347f6b6d](https://github.com/user-attachments/assets/89eea79d-8d32-4b10-b959-388733eadf4f)
- | ![WhatsApp Image 2025-12-17 at 00 29 32_31aeedfc](https://github.com/user-attachments/assets/7851a7af-1609-4519-b013-11fa3fb330fa)
- |
+| <img src="https://github.com/user-attachments/assets/c994f735-b181-4f20-9256-b7e50a0ad065" width="250" alt="Mobile Login"> | <img src="https://github.com/user-attachments/assets/89eea79d-8d32-4b10-b959-388733eadf4f" width="250" alt="Mobile Home"> | <img src="https://github.com/user-attachments/assets/7851a7af-1609-4519-b013-11fa3fb330fa" width="250" alt="Mobile Passkey"> |
 | *Branded Firebase Auth* | *Active Project Grid* | *2nd Layer Security* |
 
 | **4. The Archives** | **5. Document Preview** |
 |:---:|:---:|
-| ![WhatsApp Image 2025-12-17 at 00 29 31_e3114f02](https://github.com/user-attachments/assets/7f81046d-a920-4b1c-ba48-99b71bb0a81b)
- | ![WhatsApp Image 2025-12-17 at 00 29 35_09b05bce](https://github.com/user-attachments/assets/f1b1e130-a928-4ed3-86b5-bb91322f3d90)
- |
+| <img src="https://github.com/user-attachments/assets/7f81046d-a920-4b1c-ba48-99b71bb0a81b" width="250" alt="Mobile Archive"> | <img src="https://github.com/user-attachments/assets/f1b1e130-a928-4ed3-86b5-bb91322f3d90" width="250" alt="Mobile Preview"> |
 | *Separate historical view* | *Built-in PDF Viewer* |
 
 | **6. User Profile** | **7. App Settings** |
 |:---:|:---:|
-| ![WhatsApp Image 2025-12-17 at 00 29 36_e0e51a8b](https://github.com/user-attachments/assets/c29c6241-56fb-4260-80b3-8c57c5e10d0f)
- | ![WhatsApp Image 2025-12-17 at 00 29 39_1d7b050a](https://github.com/user-attachments/assets/0e697af3-6a8f-4a13-adb0-593a4b14dbce)
- |
+| <img src="https://github.com/user-attachments/assets/c29c6241-56fb-4260-80b3-8c57c5e10d0f" width="250" alt="Mobile Profile"> | <img src="https://github.com/user-attachments/assets/0e697af3-6a8f-4a13-adb0-593a4b14dbce" width="250" alt="Mobile Settings"> |
 | *User Details & Role* | *Configuration & Themes* |
 
 <br>
