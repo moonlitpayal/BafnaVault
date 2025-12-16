@@ -64,7 +64,7 @@ I architected a **centralized cloud "Vault"**.
 *Optimized for Office Administration on large screens.*
 
 #### 🖥️ The Admin Control Panel
-*Centralized hub to create projects, manage archives, and control user access.*
+*Centralized hub to create projects, manage archives.*
 <img width="100%" alt="Admin Panel Desktop" src="https://github.com/user-attachments/assets/5967869a-9c6d-4567-82ea-bcfceef0b660">
 
 <br>
