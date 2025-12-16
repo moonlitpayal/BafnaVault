@@ -11,38 +11,6 @@
 
 ---
 
-## 💡 The Problem & Solution
-
-**The Challenge:**
-During my internship, I observed that critical documents were scattered across physical files and local hard drives. This led to version conflicts, security risks, and slow retrieval times.
-
-**My Solution:**
-I architected a **centralized cloud "Vault"**.
-* **Secure:** Sensitive files are protected by a custom 2-layer passkey system.
-* **Fast:** Real-time search finds documents in milliseconds.
-* **Ubiquitous:** Works seamlessly on the Site Engineer's phone and the Office Manager's desktop.
-
----
-
-## ✨ Key Features
-
-### 🔐 1. Advanced Security Architecture
-* **Role-Based Access Control (RBAC):** Admin vs. Viewer roles via Firebase Auth.
-* **The "Double-Lock" System:** Even after logging in, opening a confidential file requires a specific **6-digit dynamic passkey**.
-
-### 📂 2. Smart Organization & Archiving
-* **Project-Centric View:** Files are isolated by project folders (e.g., "Orchid Residency").
-* **The Archive Vault:** Completed projects move to a separate 'Archive' section, keeping the main dashboard clean while preserving historical data.
-
-### 👁️‍🗨️ 3. Integrated Document Preview
-* **Built-in Viewer:** Preview PDFs and images directly within the app without downloading external files, enhancing speed and security.
-
-### ⚡ 4. High-Performance Workflow
-* **Cross-Platform Sync:** Instant synchronization between Desktop uploads and Mobile views.
-* **Instant Filtering:** Client-side search logic allows users to filter through thousands of documents instantly.
-
----
-
 ## 📸 Application Showcase
 
 ### 📱 Mobile View (Android)
@@ -79,6 +47,38 @@ I architected a **centralized cloud "Vault"**.
 <img width="100%" alt="Document Grid View" src="https://github.com/user-attachments/assets/8a000ad1-0b67-4254-a7b5-9c805ef983d5">
 
 > **Note:** *Screenshots demonstrate the responsive UI architecture sharing 95% of the codebase between platforms.*
+
+---
+
+## 💡 The Problem & Solution
+
+**The Challenge:**
+During my internship, I observed that critical documents were scattered across physical files and local hard drives. This led to version conflicts, security risks, and slow retrieval times.
+
+**My Solution:**
+I architected a **centralized cloud "Vault"**.
+* **Secure:** Sensitive files are protected by a custom 2-layer passkey system.
+* **Fast:** Real-time search finds documents in milliseconds.
+* **Ubiquitous:** Works seamlessly on the Site Engineer's phone and the Office Manager's desktop.
+
+---
+
+## ✨ Key Features
+
+### 🔐 1. Advanced Security Architecture
+* **Role-Based Access Control (RBAC):** Admin vs. Viewer roles via Firebase Auth.
+* **The "Double-Lock" System:** Even after logging in, opening a confidential file requires a specific **6-digit dynamic passkey**.
+
+### 📂 2. Smart Organization & Archiving
+* **Project-Centric View:** Files are isolated by project folders (e.g., "Orchid Residency").
+* **The Archive Vault:** Completed projects move to a separate 'Archive' section, keeping the main dashboard clean while preserving historical data.
+
+### 👁️‍🗨️ 3. Integrated Document Preview
+* **Built-in Viewer:** Preview PDFs and images directly within the app without downloading external files, enhancing speed and security.
+
+### ⚡ 4. High-Performance Workflow
+* **Cross-Platform Sync:** Instant synchronization between Desktop uploads and Mobile views.
+* **Instant Filtering:** Client-side search logic allows users to filter through thousands of documents instantly.
 
 ---
 
