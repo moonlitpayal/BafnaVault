@@ -18,7 +18,8 @@
 
 | **1. Secure Login** | **2. Home Dashboard** | **3. Passkey Check** |
 |:---:|:---:|:---:|
-| ![Mobile Login](screenshots/mobile_login.png) | ![Mobile Home](screenshots/mobile_home.png) | ![Mobile Passkey](screenshots/mobile_passkey.png) |
+| ![WhatsApp Image 2025-12-17 at 00 29 29_1deb2a94](https://github.com/user-attachments/assets/c994f735-b181-4f20-9256-b7e50a0ad065)
+ | ![Mobile Home](screenshots/mobile_home.png) | ![Mobile Passkey](screenshots/mobile_passkey.png) |
 | *Branded Firebase Auth* | *Active Project Grid* | *2nd Layer Security* |
 
 | **4. The Archives** | **5. Document Preview** |
