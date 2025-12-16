@@ -77,7 +77,7 @@ I architected a **centralized cloud "Vault"**.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/BafnaVault.git](https://github.com/YourUsername/BafnaVault.git)
+    git clone [https://github.com/moonlitpayal/BafnaVault.git](https://github.com/moonlitpayal/BafnaVault.git)
     ```
 2.  **Install Dependencies:**
     ```bash
